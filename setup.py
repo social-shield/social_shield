@@ -19,8 +19,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://medium-multiply.readthedocs.io/",
-    author="Joffrey Bienvenu",
-    author_email="example@email.com",
+    author="Rohith Syam",
+    author_email="rohithlayana@gmail.com",
     license="MIT",
     classifiers=[
         "Intended Audience :: Developers",
